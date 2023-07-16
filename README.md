@@ -83,5 +83,8 @@ git remote add origin git@github.com:gvpinto/reactjs-comps.git
 git push -u origin main
 ```
 
+### Install Packages
+
+`$ npm install immer`
 
 
